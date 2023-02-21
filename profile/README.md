@@ -2,6 +2,9 @@
 - [Lab Website](https://macleanlab.uchicago.edu/)
 - [Lab Wiki](https://github.com/MacLean-Lab-UChicago/MacLean-Lab-UChicago.github.io/wiki)
 
+## Code
+- _No code has been made publically available at this time_
+
 ## Articles
 - [Large-scale algorithmic search identifies stiff and sloppy dimensions in synaptic architectures consistent with murine neocortical wiring](https://direct.mit.edu/neco/article/34/12/2347/113359) (Jabri & MacLean, 2022)
 - [Sequential addition of neuronal stem cell temporal cohorts generates a feed-forward circuit in the Drosophila larval nerve cord](https://elifesciences.org/articles/79276) (Wang et al, 2022)
@@ -37,6 +40,3 @@
 - [Heuristically optimal path scanning for high-speed multiphoton circuit imaging](https://journals.physiology.org/doi/abs/10.1152/jn.00334.2011) (Sadovsky et al, 2011)
 - [Imaging action potentials with calcium indicators](http://cshprotocols.cshlp.org/content/2011/8/pdb.prot5650.short) (Yuste et al, 2011)
 - [Calcium imaging in neuroscience](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470015902.a0021391) (Neubauer & MacLean, 2010)
-
-## Code
-- _No code has been made publically available at this time_
