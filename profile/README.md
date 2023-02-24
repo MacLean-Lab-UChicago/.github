@@ -3,7 +3,7 @@
 - [Lab Wiki](https://github.com/MacLean-Lab-UChicago/MacLean-Lab-UChicago.github.io/wiki)
 
 ## Code
-- _No code has been made publically available at this time_
+- Published code can be found [here](https://github.com/MacLean-Lab-UChicago/published-code). Other code is available by reasonable request.
 
 ## Articles
 - [Large-scale algorithmic search identifies stiff and sloppy dimensions in synaptic architectures consistent with murine neocortical wiring](https://direct.mit.edu/neco/article/34/12/2347/113359) (Jabri & MacLean, 2022)
