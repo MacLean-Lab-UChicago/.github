@@ -1,6 +1,7 @@
 ## Quick Links
-- [Lab Website](https://macleanlab.uchicago.edu/)
+- [Lab Website](https://macleanlab.uchicago.edu)
 - [Lab Wiki](https://github.com/MacLean-Lab-UChicago/MacLean-Lab-UChicago.github.io/wiki)
+- [Lab Instagram](https://www.instagram.com/macleanlab)
 
 ## Code
 - Published code can be found [here](https://github.com/MacLean-Lab-UChicago/published-code). Other code is available by reasonable request.
